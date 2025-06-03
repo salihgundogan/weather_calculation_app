@@ -1,0 +1,2 @@
+id:3 ölçüm: nem - yer: YER - tarih: 11.11.2011 , ortalama: 61.6
+id:4 ölçüm: nem - yer: YER - tarih: 12.11.2011 , ortalama: 55.6

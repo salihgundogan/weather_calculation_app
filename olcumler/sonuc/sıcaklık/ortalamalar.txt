@@ -1,0 +1,2 @@
+id:1 ölçüm: sıcaklık - yer: YER - tarih: 11.11.2011 , ortalama: 13.4
+id:2 ölçüm: sıcaklık - yer: YER - tarih: 12.11.2011 , ortalama: 10.940000000000001
